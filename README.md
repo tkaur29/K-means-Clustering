@@ -1,10 +1,8 @@
-# K-Means Slider Visualizer
+# K-Means Clustering Visualizer 🛞
 
 [Live Demo](https://tanveerkaur29-k-means-slider.hf.space/) (Hugging Face)
 
-
 An interactive Gradio app to explore how K-Means clustering behaves as you change the number of clusters $K$.
-
 The app generates a synthetic 2D dataset using `make_blobs`, fits a `KMeans` model, and updates a scatter plot in real time.
 
 ## Features
